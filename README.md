@@ -57,14 +57,14 @@ A demo is temporarily available via ngrok
   ```
 2. Download flask 
 3. Install requirement.txt
-   ``` bash
+  ``` bash
    pip install -r requirements.txt
-   ```
+  ```
 5. Run Flask backend in terminal Visual Studio Code
-   ``` bash
+  ``` bash
    python app.py
-   ``` 
+  ``` 
 6.Open in browser or chrome
-   ``` bash
+  ``` bash
    http://localhost:5000/ 
-   ``` 
+  ``` 
