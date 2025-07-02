@@ -55,7 +55,7 @@ A demo is temporarily available via ngrok
   https://github.com/fikrimunadi1/FaceDApps.git
   cd FaceDApps
   ```
-2. Download flask 
+2. Download flask and python
 3. Install requirement.txt
   ``` bash
    pip install -r requirements.txt
