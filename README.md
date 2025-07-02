@@ -49,7 +49,7 @@ using the vgg16 architecture in recognizing various types of facial expressions 
 To deploy it, use ngrok so that it can be opened publicly.
 A demo is temporarily available via ngrok
 
-🚀 How to Run
+## 🚀 How to Run
 1. Clone the repository:
   ``` bash
   https://github.com/fikrimunadi1/FaceDApps.git
@@ -64,7 +64,7 @@ A demo is temporarily available via ngrok
   ``` bash
    python app.py
   ``` 
-6.Open in browser or chrome
+6. Open in browser or chrome
   ``` bash
    http://localhost:5000/ 
   ``` 
