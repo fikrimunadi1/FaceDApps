@@ -60,11 +60,11 @@ A demo is temporarily available via ngrok
   ``` bash
    pip install -r requirements.txt
   ```
-5. Run Flask backend in terminal Visual Studio Code
+4. Run Flask backend in terminal Visual Studio Code
   ``` bash
    python app.py
   ``` 
-6. Open in browser or chrome
+5. Open in browser or chrome
   ``` bash
    http://localhost:5000/ 
   ``` 
