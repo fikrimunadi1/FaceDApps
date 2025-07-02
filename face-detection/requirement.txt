@@ -1,0 +1,4 @@
+tensorflow
+pil
+flask
+numpy
